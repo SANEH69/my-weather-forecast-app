@@ -1,0 +1,61 @@
+body .inner {
+  border: 1px solid transparent;
+  display: block;
+  max-width: 50%;
+  margin: 50px auto;
+  background-color: #ffffff;
+  padding: 50px;
+  border-radius: 5px;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 38px;
+}
+body {
+  background-color: #f9f7fe;
+}
+.city {
+  padding: 10px 40px;
+  margin: 5px auto auto 5px;
+  border-radius: 4px;
+  background-color: #f9f7fe;
+  border: 1px solid transparent;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.submit {
+  padding: 10px 20px;
+  background-color: #885df1;
+  color: #ffffff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+p strong {
+  color: #f65282;
+}
+main p {
+  color: #a9a6b3;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.forecast {
+  display: flex;
+  justify-content: space-between;
+}
+.current-temp {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+footer p {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #a9a6b3;
+}
+footer p a {
+  color: #885df1;
+}
